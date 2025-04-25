@@ -3,7 +3,9 @@
 ![HumanChain Logo](public/humanchain-favicon.svg)
 
 
-<img width="642" alt="Screenshot 2025-04-26 at 12 17 49 AM" src="https://github.com/user-attachments/assets/354f8504-3825-4106-8ad6-9d0a366e8cd7" />
+
+<img width="1264" alt="Screenshot 2025-04-26 at 12 20 30 AM" src="https://github.com/user-attachments/assets/9aec35fa-c882-4f86-8973-ea4ea9a9d895" />
+
 
 A sleek, modern dashboard for viewing, filtering, and reporting AI safety incidents. This project serves as a frontend interface for HumanChain, allowing users to monitor and log hypothetical AI safety incidents.
 
