@@ -1,0 +1,15 @@
+.incident-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.no-incidents {
+  background-color: var(--gray-light);
+  padding: 2rem;
+  border-radius: var(--radius);
+  text-align: center;
+  color: var(--text-secondary);
+  font-style: italic;
+  border: 1px dashed var(--gray);
+} 
